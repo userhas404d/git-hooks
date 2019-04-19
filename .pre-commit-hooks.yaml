@@ -5,3 +5,4 @@
   description: Spell checks changes in files which you are about to commit.
   entry: hooks/spellcheck.sh
   language: script
+  always_run: true
