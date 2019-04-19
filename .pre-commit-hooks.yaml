@@ -1,0 +1,7 @@
+---
+
+- id: commit-msg-spellcheck
+  name: PreCommit Spell Check
+  description: Spell checks changes in files which you are about to commit.
+  entry: hooks/spellcheck.sh
+  language: script
